@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T21:31:58.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="wVGE0mMrqwklTZaJM3Tt" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T21:34:43.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="ABAGNaksxq5n9MCjVGPy" version="24.2.2" type="github" pages="2">
   <diagram name="CSV Clean and into SQLite.ipynb" id="AW_H_GtnJ6_vbwVo9-qZ">
     <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,19 +20,53 @@
         <mxCell id="Pv2zGZAQqOllGv32fEoh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pv2zGZAQqOllGv32fEoh-2" target="Pv2zGZAQqOllGv32fEoh-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="worldometer_data.to_sql" link="CSV into SQLite.ipynb" id="Pv2zGZAQqOllGv32fEoh-2">
+        <UserObject label="CSV Dirt and into CSV Clean.ipynb" link="CSV into SQLite.ipynb" id="Pv2zGZAQqOllGv32fEoh-2">
           <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
             <mxGeometry x="340" y="370" width="225" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="COVID.db" link="CSV into SQLite.ipynb" id="Pv2zGZAQqOllGv32fEoh-3">
+        <UserObject label="worldometer_data.csv" link="CSV into SQLite.ipynb" id="Pv2zGZAQqOllGv32fEoh-3">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-            <mxGeometry x="630" y="360" width="100" height="80" as="geometry" />
+            <mxGeometry x="630" y="360" width="150" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Pv2zGZAQqOllGv32fEoh-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CSV Clean and into SQLite.ipynb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="690" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2CehripvMXQVhCbDmMj8" name="Page-2">
+    <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" id="Iwcq5BdHXTW2Z3bre0ay-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="20" y="280" width="790" height="200" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Iwcq5BdHXTW2Z3bre0ay-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iwcq5BdHXTW2Z3bre0ay-3" target="Iwcq5BdHXTW2Z3bre0ay-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="worldometer_data_2024_03_30.csv" id="Iwcq5BdHXTW2Z3bre0ay-3">
+          <mxCell style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+            <mxGeometry x="30" y="360" width="260" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Iwcq5BdHXTW2Z3bre0ay-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iwcq5BdHXTW2Z3bre0ay-5" target="Iwcq5BdHXTW2Z3bre0ay-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="COVID_worldometer_data.ipynb" link="CSV into SQLite.ipynb" id="Iwcq5BdHXTW2Z3bre0ay-5">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+            <mxGeometry x="340" y="370" width="260" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="COVID.db" link="CSV into SQLite.ipynb" id="Iwcq5BdHXTW2Z3bre0ay-6">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+            <mxGeometry x="670" y="360" width="100" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
