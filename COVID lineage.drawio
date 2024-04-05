@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T21:38:35.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="2ZVVLIw4qZ_U1EDG93W2" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-05T21:40:14.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="VnCZB5gJZsUneHYKjHIN" version="24.2.2" type="github" pages="2">
   <diagram name="CSV Dirt and into CSV Clean.ipynb" id="AW_H_GtnJ6_vbwVo9-qZ">
     <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2CehripvMXQVhCbDmMj8" name="Page-2">
+  <diagram id="2CehripvMXQVhCbDmMj8" name="COVID_worldometer_data.ipynb">
     <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -49,7 +49,7 @@
         <mxCell id="Iwcq5BdHXTW2Z3bre0ay-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iwcq5BdHXTW2Z3bre0ay-3" target="Iwcq5BdHXTW2Z3bre0ay-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="worldometer_data_2024_03_30.csv" id="Iwcq5BdHXTW2Z3bre0ay-3">
+        <UserObject label="worldometer_data.csv" id="Iwcq5BdHXTW2Z3bre0ay-3">
           <mxCell style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
             <mxGeometry x="30" y="360" width="260" height="80" as="geometry" />
           </mxCell>
@@ -67,6 +67,9 @@
             <mxGeometry x="670" y="360" width="100" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ujip9tZ_zfOCsZxb8uiM-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;COVID_worldometer_data.ipynb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="690" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
