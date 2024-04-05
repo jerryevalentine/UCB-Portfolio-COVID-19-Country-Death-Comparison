@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T22:13:05.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="vBeLgea9OHUXbRESa4tl" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-05T22:13:55.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Bybm0J9OvhW5p7hkkt3u" version="24.2.2" type="github" pages="2">
   <diagram name="CSV Dirt and into CSV and SQLite DB" id="AW_H_GtnJ6_vbwVo9-qZ">
     <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="Pv2zGZAQqOllGv32fEoh-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CSV Dirt and into CSV and SQLite DB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="690" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="COVID.db" link="CSV into SQLite.ipynb" id="s5KdsTl6v5uL7ldmR7hH-1">
+        <UserObject label="&lt;div&gt;worldometer_data&lt;/div&gt;&lt;div&gt;into&amp;nbsp;&lt;/div&gt;&lt;div&gt;COVID.db&lt;/div&gt;" link="CSV into SQLite.ipynb" id="s5KdsTl6v5uL7ldmR7hH-1">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
             <mxGeometry x="630" y="490" width="150" height="80" as="geometry" />
           </mxCell>
@@ -75,7 +75,7 @@
         <mxCell id="ujip9tZ_zfOCsZxb8uiM-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;COVID_Predicted_Loses_worldometer_data.ipynb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="690" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="COVID.db" link="CSV into SQLite.ipynb" id="VzPFnS4MO1dJz1AUrus1-1">
+        <UserObject label="&lt;div&gt;worldometer_data&lt;/div&gt;&lt;div&gt;in&lt;/div&gt;&lt;div&gt;COVID.db&lt;/div&gt;" link="CSV into SQLite.ipynb" id="VzPFnS4MO1dJz1AUrus1-1">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
             <mxGeometry x="100" y="360" width="150" height="80" as="geometry" />
           </mxCell>
