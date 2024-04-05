@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T21:28:43.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="JTRKuBqmbumigSSGlLO6" version="24.2.2" type="github">
-  <diagram name="Page-1" id="AW_H_GtnJ6_vbwVo9-qZ">
+<mxfile host="app.diagrams.net" modified="2024-04-05T21:31:31.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="1uyB7WhfMbID9YdsGfvQ" version="24.2.2" type="github">
+  <diagram name="CSV Clean and into SQLite.ipynb" id="AW_H_GtnJ6_vbwVo9-qZ">
     <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="" id="Pv2zGZAQqOllGv32fEoh-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="20" y="240" width="790" height="320" as="geometry" />
+            <mxGeometry x="20" y="280" width="790" height="200" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Pv2zGZAQqOllGv32fEoh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pv2zGZAQqOllGv32fEoh-1" target="Pv2zGZAQqOllGv32fEoh-2">
@@ -30,8 +30,8 @@
             <mxGeometry x="630" y="360" width="100" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Pv2zGZAQqOllGv32fEoh-7" value="CSV into SQLite.ipynb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="250" width="150" height="30" as="geometry" />
+        <mxCell id="Pv2zGZAQqOllGv32fEoh-7" value="CSV Clean and into SQLite.ipynb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
