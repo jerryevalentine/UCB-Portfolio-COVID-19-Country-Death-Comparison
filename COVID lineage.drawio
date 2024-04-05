@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T21:40:14.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="VnCZB5gJZsUneHYKjHIN" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-05T22:00:53.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="sEPTZKUmkNUELuCGhaTQ" version="24.2.2" type="github" pages="2">
   <diagram name="CSV Dirt and into CSV Clean.ipynb" id="AW_H_GtnJ6_vbwVo9-qZ">
     <mxGraphModel dx="2154" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <UserObject label="" id="Pv2zGZAQqOllGv32fEoh-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="20" y="280" width="790" height="200" as="geometry" />
+            <mxGeometry x="20" y="280" width="790" height="340" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Pv2zGZAQqOllGv32fEoh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pv2zGZAQqOllGv32fEoh-1" target="Pv2zGZAQqOllGv32fEoh-2">
@@ -30,8 +30,16 @@
             <mxGeometry x="630" y="360" width="150" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Pv2zGZAQqOllGv32fEoh-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CSV Dirt and into CSV Clean.ipynb&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Pv2zGZAQqOllGv32fEoh-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CSV Dirt and into CSV Clean and SQLite DB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="690" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="worldometer_data.to_csv" link="CSV into SQLite.ipynb" id="s5KdsTl6v5uL7ldmR7hH-1">
+          <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+            <mxGeometry x="630" y="490" width="150" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="s5KdsTl6v5uL7ldmR7hH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pv2zGZAQqOllGv32fEoh-2" target="s5KdsTl6v5uL7ldmR7hH-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
